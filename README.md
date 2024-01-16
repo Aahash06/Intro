@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on *Weather Predection using Machine Learning Algorithms**
 
-- 🌱 I’m currently learning **Artificial Intelligence & Data Science **
+- ⚡ I’m currently learning **Artificial Intelligence & Data Science **
 
 - 👨‍💻 All of my projects are available at [https://aahash-portfolio.netlify.app/](https://aahash-portfolio.netlify.app/)
 
@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **kambleaahash@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
