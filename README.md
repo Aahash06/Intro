@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on *Weather Predection using pthon and machine learning**
+- 🔭 I’m currently working on *Weather Predection using Machine Learning Algorithms**
 
-- 🌱 I’m currently learning **Artificial Intelligence & Data Science , Cyber Security**
+- 🌱 I’m currently learning **Artificial Intelligence & Data Science **
 
 - 👨‍💻 All of my projects are available at [https://aahash-portfolio.netlify.app/](https://aahash-portfolio.netlify.app/)
 
