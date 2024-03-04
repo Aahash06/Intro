@@ -10,8 +10,6 @@
 
 - ⚡ I’m currently learning **Artificial Intelligence & Data Science **
 
-- 👨‍💻 All of my projects are available at [https://aahash-portfolio.netlify.app/](https://aahash-portfolio.netlify.app/)
-
 - 💬 Ask me about **Projects, Social Activites**
 
 - 📫 How to reach me **kambleaahash@gmail.com**
